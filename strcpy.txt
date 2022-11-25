@@ -8,3 +8,5 @@ char *strcpy(char *src) {
 	*temp='\0';
 	return str;
 }
+
+/** 远程修改 **/
